@@ -12,7 +12,7 @@ Windows 64bit only.
 
 ## What it looks like
 
-### Small window:
+### Small window
 
 ![A window](https://raw.githubusercontent.com/FishieCat/vid2screens/main/v2s_1.png)
 
